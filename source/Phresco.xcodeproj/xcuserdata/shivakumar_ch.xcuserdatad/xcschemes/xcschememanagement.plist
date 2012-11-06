@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Login.xcscheme</key>
+		<key>Phresco.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>06ECE43D16438E0C0084C0F0</key>
+		<key>06221ABA16496579009E81AB</key>
 		<dict>
 			<key>primary</key>
 			<true/>

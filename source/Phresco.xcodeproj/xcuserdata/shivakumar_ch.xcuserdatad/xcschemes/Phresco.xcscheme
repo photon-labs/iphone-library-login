@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "06ECE43D16438E0C0084C0F0"
-               BuildableName = "libLogin.a"
-               BlueprintName = "Login"
-               ReferencedContainer = "container:Login.xcodeproj">
+               BlueprintIdentifier = "06221ABA16496579009E81AB"
+               BuildableName = "libPhresco.a"
+               BlueprintName = "Phresco"
+               ReferencedContainer = "container:Phresco.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

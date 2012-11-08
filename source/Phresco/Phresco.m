@@ -1,15 +1,15 @@
 //
-//  Login.m
-//  Login
+//  Phresco.m
+//  Phresco
 //
-//  Created by SHIVAKUMAR_CH on 11/2/12.
-//  Copyright (c) 2012 SHIVAKUMAR. All rights reserved.
+//  Created by Sathiyasuresh on 08/11/12.
+//  Copyright (c) 2012 Sathiyasuresh. All rights reserved.
 //
 
-#import "Login.h"
+#import "Phresco.h"
 #import "LoginConstants.h"
 
-@implementation Login
+@implementation Phresco
 @synthesize emailAddress;
 @synthesize password;
 @synthesize delegate;
@@ -172,7 +172,7 @@
         [button setImage:image forState:UIControlStateNormal];
     }
     [self addSubview:button];
-
+    
 }
 
 @end

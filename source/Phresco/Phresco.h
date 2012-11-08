@@ -1,19 +1,20 @@
 //
-//  Login.h
-//  Login
+//  Phresco.h
+//  Phresco
 //
-//  Created by SHIVAKUMAR_CH on 11/2/12.
-//  Copyright (c) 2012 SHIVAKUMAR. All rights reserved.
+//  Created by Sathiyasuresh on 08/11/12.
+//  Copyright (c) 2012 Sathiyasuresh. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
-@protocol Login <NSObject>
+
+@protocol Phresco <NSObject>
 
 @end
 
-@interface Login : UIView<UITextFieldDelegate>
+@interface Phresco : UIView<UITextFieldDelegate>
 {
     UITextField *emailAddress;
     UITextField *password;
@@ -30,5 +31,4 @@
 -(void) createLoginButton:(UIImage*) loginImage;
 -(void) createCancelButton:(UIImage*) cancelImage;
 -(void) createRegisterButton:(UIImage*) registerImage;
-
 @end

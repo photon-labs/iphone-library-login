@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "06221ABA16496579009E81AB"
+               BlueprintIdentifier = "C344AD8F164BF26F0051245D"
                BuildableName = "libPhresco.a"
                BlueprintName = "Phresco"
                ReferencedContainer = "container:Phresco.xcodeproj">
